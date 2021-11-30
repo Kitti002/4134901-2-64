@@ -10,8 +10,9 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 
 ### Link LAB
 
-[LAB1](https://github.com/Kitti002/4134901-2-64-LAB1)
-[LAB2](https://github.com/Kitti002/4134901-2-64-LAB2)
+[LAB1](https://github.com/Kitti002/4134901-2-64/tree/main/LAB1)
+[LAB2](https://github.com/Kitti002/4134901-2-64/tree/main/LAB2)
+[LAB3](https://github.com/Kitti002/4134901-2-64/tree/main/LAB3)
 
 
 
