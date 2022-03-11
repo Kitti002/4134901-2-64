@@ -3,11 +3,11 @@ package main
 import (
 	"fmt"
 
-	"suchada/lab7/structs"
+	"kitti/lab7/structs"
 )
 
 func main(){
-	const rname = "Suchada"
+	const rname = "Kitti"
 	var age = 22
 
 	fmt.Println("Hello..%s : %v",rname,age)
